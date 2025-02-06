@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "sch.list.definition-builder-clazz",
+      "type": "java.lang.Class",
+      "description": "sql definition 构建器."
+    }
+  ]
+}
